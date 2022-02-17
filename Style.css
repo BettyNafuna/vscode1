@@ -1,0 +1,26 @@
+*{
+Margin: 0;
+Padding: 0;
+font-family: sans-serif;
+
+}
+.banner {
+    width: auto;
+    height: 100vh;
+    background-image: linear-gradient(rgba),url(background.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.navbar{
+    width: 75%;
+    margin: auto;
+    padding: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo{
+    width: 120px;
+    cursor: pointer;
+}
